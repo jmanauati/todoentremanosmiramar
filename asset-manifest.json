@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/todoentremanosmiramar/static/css/main.77f411d8.css",
+    "main.js": "/todoentremanosmiramar/static/js/main.e8ffee1f.js",
+    "static/media/FondoInicio.jpeg": "/todoentremanosmiramar/static/media/FondoInicio.b89d3148e2331b9e5f0b.jpeg",
+    "static/media/LogoTodoentreManos.png": "/todoentremanosmiramar/static/media/LogoTodoentreManos.e26e759f4c99b29d92b7.png",
+    "static/media/torno.jpg": "/todoentremanosmiramar/static/media/torno.937844da60569d38e435.jpg",
+    "static/media/slick.svg": "/todoentremanosmiramar/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/todoentremanosmiramar/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/todoentremanosmiramar/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/todoentremanosmiramar/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/todoentremanosmiramar/index.html",
+    "main.77f411d8.css.map": "/todoentremanosmiramar/static/css/main.77f411d8.css.map",
+    "main.e8ffee1f.js.map": "/todoentremanosmiramar/static/js/main.e8ffee1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77f411d8.css",
+    "static/js/main.e8ffee1f.js"
+  ]
+}
